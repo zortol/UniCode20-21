@@ -1,7 +1,7 @@
 # Score
 100%
 
-#Challenge Info
+# Challenge Info
 
 You have been hired as part of a specialist team for a heist.
 
